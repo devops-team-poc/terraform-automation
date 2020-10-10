@@ -1,0 +1,5 @@
+project          = "location-inventory-info-dev"
+db_instance_type = "db-f1-micro"
+env              = "dev"
+redis_instance_tier = "BASIC"
+github_repository_branch = "dev"
